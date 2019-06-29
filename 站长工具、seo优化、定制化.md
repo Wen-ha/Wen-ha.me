@@ -54,11 +54,14 @@ jetpack
 ![image](http://a3.qpic.cn/psb?/V14fIPxG4O9lCh/p0ooPUBSN*qZ0PB3J*2dqaPKVfFk3yVElxQYZ4gAV3Y!/b/dL4AAAAAAAAA&ek=1&kp=1&pt=0&bo=VgW0AgAAAAADJ.c!&tl=1&vuin=641064738&tm=1561611600&sce=60-2-2&rf=viewer_4)
 
 ### 2.bing站长工具的手动提交URL
-做法：登录bing站长工具，手动提交文章的url，从而使得更多文章被bing收录。
+做法：登录bing站长工具，手动提交文章的url，使得更多文章被bing收录，从而提高网站的搜索内容出现平均数位置。
 
-优化前：只有首页被收录
-![image](http://m.qpic.cn/psb?/V14fIPxG4O9lCh/Bo4HCTWauimg7Z9LJSqUt6mCCubTIif79QLgp*DHl2Y!/b/dLYAAAAAAAAA&bo=hgP9AQAAAAADF0s!&rf=viewer_4)
 优化成果和截图：
+
+提高网站的搜索内容出现平均数位置。
+
+![image](https://m.qpic.cn/psb?/V14fIPxG4O9lCh/037n9J85OZCHHu3.kiPkxf6i3NqVQ.NwGWXsMcVfMXE!/b/dFMBAAAAAAAA&bo=.gB.AAAAAAADB6Y!&rf=viewer_4)
+
 
 ### 3.站内优化--文章发布
 做法：2019-6-25当天增加多篇与网站主题相关的文章，并对文章内容、排版进行优化，增加文章的可读性。
