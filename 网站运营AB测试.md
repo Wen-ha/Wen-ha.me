@@ -6,10 +6,18 @@
 
 #### 方案一
 首页文章页等等采用较大（307*212）的封面图进行排版。  
+
+录音文件(https://pan.baidu.com/s/1m1VNk4AsvLv0Z62SF_C4hw 
+提取码：b0ul )
+
 如图
 ![image](https://m.qpic.cn/psb?/V14fIPxG4O9lCh/qdkZGeuiSZhcpHoSW9IDRNNX64FunMv2u8kqxSt6jgc!/b/dIMAAAAAAAAA&bo=OAR5BQAAAAARB3A!&rf=viewer_4)
 #### 方案二
 首页文章页等等采用较小（185*131）的封面图进行排版。
+
+录音文件(https://pan.baidu.com/s/1vnpEjwsjDgHK94rvTF9mqw 
+提取码：brn5 )
+
 如图
 ![image](http://m.qpic.cn/psb?/V14fIPxG4O9lCh/kBMeEVxs2ZR*ONEPmj5wQjtbSgT7xfLzD1xL0BTfWGk!/b/dIQAAAAAAAAA&bo=OAR5BQAAAAARF2A!&rf=viewer_4)
 根据两位用户测试，整理如下：
